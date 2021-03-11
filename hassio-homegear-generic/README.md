@@ -29,5 +29,5 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-e240f1f-blue.svg
-[release]: https://github.com/devRoemer/hassio-homegear-generic/tree/e240f1f
+[release-shield]: https://img.shields.io/badge/version-f4c63d2-blue.svg
+[release]: https://github.com/devRoemer/hassio-homegear-generic/tree/f4c63d2

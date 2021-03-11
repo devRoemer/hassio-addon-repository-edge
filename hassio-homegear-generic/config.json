@@ -1,6 +1,6 @@
 {
   "name": "Homegear",
-  "version": "e240f1f",
+  "version": "f4c63d2",
   "slug": "hassio-homegear-generic",
   "description": "Homegear add-on",
   "url": "https://github.com/devRoemer/hassio-homegear-generic",
@@ -13,11 +13,15 @@
   ],
   "startup": "services",
   "uart": true,
+  "udev": true,
   "usb": true,
   "gpio": true,
   "privileged": [
     "SYS_ADMIN",
     "SYS_RAWIO"
+  ],
+  "devices": [
+    "/dev/mem"
   ],
   "map": [
     "config:rw",
