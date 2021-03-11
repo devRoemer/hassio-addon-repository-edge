@@ -1,0 +1,7 @@
+---
+channel: edge
+addons:
+  hassio-homegear-generic:
+    repository: devRoemer/hassio-homegear-generic
+    target: homegear
+    image: devroemer/hassio-homegear-generic-{arch}
