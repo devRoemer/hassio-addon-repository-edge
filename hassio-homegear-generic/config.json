@@ -1,6 +1,6 @@
 {
   "name": "Homegear",
-  "version": "f4c63d2",
+  "version": "dddef2f",
   "slug": "hassio-homegear-generic",
   "description": "Homegear add-on",
   "url": "https://github.com/devRoemer/hassio-homegear-generic",
@@ -21,7 +21,8 @@
     "SYS_RAWIO"
   ],
   "devices": [
-    "/dev/mem"
+    "/dev/mem",
+    "/dev/spidev0.0"
   ],
   "map": [
     "config:rw",
