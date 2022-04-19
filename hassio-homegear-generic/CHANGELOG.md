@@ -1,2 +1,10 @@
 # Changelog since v1.0.2
+- * Remove support for i386 because the homegear apt repo does not contain packages for it anymore 
+- * Remove support for i386 because the homegear apt repo does not contain packages for it anymore 
+- * Change shell and add pipefail for proper error handling 
+- * Fix warning: apt-key is deprecated. Manage keyring files in trusted.gpg.d instead 
+- * Fix hassio linting error: 'devices' uses a deprecated format, the new format uses a list of paths only. 
+- * Add spidev permissions (just to be on the safe side) 
+- * Update debian buster (10) to bullseye (11) 
+- * Ensure that the checkout still works after repo changes (https://forum.homegear.eu/t/apthomegeareuraspbian-existiert-nicht/4156) 
 - * Experimental spi support 

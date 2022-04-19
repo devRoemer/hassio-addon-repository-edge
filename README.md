@@ -46,10 +46,10 @@ Homegear add-on
 
 [:bug: Open an issue for the add-on: Homegear][hassio-homegear-generic-issue]
 
-[addon-hassio-homegear-generic]: https://github.com/devRoemer/hassio-homegear-generic/tree/dddef2f
-[addon-doc-hassio-homegear-generic]: https://github.com/devRoemer/hassio-homegear-generic/blob/dddef2f/README.md
+[addon-hassio-homegear-generic]: https://github.com/devRoemer/hassio-homegear-generic/tree/d7599d1
+[addon-doc-hassio-homegear-generic]: https://github.com/devRoemer/hassio-homegear-generic/blob/d7599d1/README.md
 [hassio-homegear-generic-issue]: https://github.com/devRoemer/hassio-homegear-generic/issues
-[hassio-homegear-generic-version-shield]: https://img.shields.io/badge/version-dddef2f-blue.svg
+[hassio-homegear-generic-version-shield]: https://img.shields.io/badge/version-d7599d1-blue.svg
 [hassio-homegear-generic-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [hassio-homegear-generic-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [hassio-homegear-generic-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
