@@ -56,5 +56,5 @@ Homegear add-on
 [hassio-homegear-generic-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [hassio-homegear-generic-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [license-shield]: https://img.shields.io/github/license/devRoemer/hassio-addon-repository-edge.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-development-red.svg
