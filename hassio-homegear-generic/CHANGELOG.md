@@ -1,4 +1,6 @@
 # Changelog since v1.0.2
+- Update README.md 
+- Update README.md 
 - * Remove support for i386 because the homegear apt repo does not contain packages for it anymore 
 - * Remove support for i386 because the homegear apt repo does not contain packages for it anymore 
 - * Change shell and add pipefail for proper error handling 
