@@ -1,4 +1,7 @@
 # Changelog since v1.0.2
+- Revert "* Test ingress support in new version of homegear"
+
+This reverts commit a671ce46f2af4c70068ad7f1a254662de9c1b936. 
 - * Improve script syntax to pass shellcheck 
 - * Test ingress support in new version of homegear 
 - * Add logging for better troubleshooting 
