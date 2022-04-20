@@ -1,4 +1,7 @@
 # Changelog since v1.0.2
+- * Improve script syntax to pass shellcheck 
+- * Test ingress support in new version of homegear 
+- * Add logging for better troubleshooting 
 - Update README.md 
 - Update README.md 
 - * Remove support for i386 because the homegear apt repo does not contain packages for it anymore 

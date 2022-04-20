@@ -1,6 +1,6 @@
 {
   "name": "Homegear",
-  "version": "cc15aab",
+  "version": "76432f9",
   "slug": "hassio-homegear-generic",
   "description": "Homegear add-on",
   "url": "https://github.com/devRoemer/hassio-homegear-generic",
@@ -27,6 +27,8 @@
     "config:rw",
     "share:rw"
   ],
+  "ingress": true,
+  "ingress_port": 2001,
   "ports": {
     "2001/tcp": 2001,
     "2002/tcp": 2002,
