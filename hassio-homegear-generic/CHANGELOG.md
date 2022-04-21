@@ -1,4 +1,5 @@
 # Changelog since v1.0.2
+- * Change command to detect group 
 - * Improve logging 
 - * Improve logging 
 - * Run pre script with correct user 
