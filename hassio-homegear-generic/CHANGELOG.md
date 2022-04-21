@@ -1,4 +1,6 @@
 # Changelog since v1.0.2
+- * Fix Shellcheck warnings 
+- * Possibility to run homegear as specific user 
 - Revert "* Test ingress support in new version of homegear"
 
 This reverts commit a671ce46f2af4c70068ad7f1a254662de9c1b936. 

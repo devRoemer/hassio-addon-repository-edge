@@ -1,6 +1,6 @@
 {
   "name": "Homegear",
-  "version": "10546cd",
+  "version": "71b5ea3",
   "slug": "hassio-homegear-generic",
   "description": "Homegear add-on",
   "url": "https://github.com/devRoemer/hassio-homegear-generic",
@@ -36,6 +36,12 @@
     "2001/tcp": "Homegear Web-Interface",
     "2002/tcp": "Homegear port 2002",
     "2003/tcp": "Homegear port 2003"
+  },
+  "options": {
+    "homegear_user": "homegear"
+  },
+  "schema": {
+    "homegear_user": "str"
   },
   "image": "devroemer/hassio-homegear-generic-{arch}"
 }
