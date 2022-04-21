@@ -1,4 +1,5 @@
 # Changelog since v1.0.2
+- * Run pre script with correct user 
 - * Fix Shellcheck warnings 
 - * Possibility to run homegear as specific user 
 - Revert "* Test ingress support in new version of homegear"
