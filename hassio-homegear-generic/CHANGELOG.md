@@ -1,5 +1,6 @@
 # Changelog since v1.0.2
 - * Improve logging 
+- * Improve logging 
 - * Run pre script with correct user 
 - * Fix Shellcheck warnings 
 - * Possibility to run homegear as specific user 
