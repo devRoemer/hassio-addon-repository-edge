@@ -1,4 +1,5 @@
 # Changelog since v1.0.2
+- * Update build args 
 - * Change command to detect group 
 - * Improve logging 
 - * Improve logging 
