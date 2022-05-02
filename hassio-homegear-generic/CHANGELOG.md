@@ -1,4 +1,5 @@
 # Changelog since v1.0.3
+- * Disable apparmor to avoid trouble 
 - * Add gpiomem device 
 - Revert "* Add full access for testing spi devices"
 

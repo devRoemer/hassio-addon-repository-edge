@@ -1,6 +1,6 @@
 {
   "name": "Homegear",
-  "version": "55ce1d9",
+  "version": "52cb647",
   "slug": "hassio-homegear-generic",
   "description": "Homegear add-on",
   "url": "https://github.com/devRoemer/hassio-homegear-generic",
@@ -11,6 +11,7 @@
     "armv7"
   ],
   "startup": "services",
+  "apparmor": false,
   "uart": true,
   "udev": true,
   "usb": true,
